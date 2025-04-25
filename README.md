@@ -2,7 +2,7 @@
 
 ## Overview
 
-본 레포지토리는 **20,000,000명의 PSN(PlayStation Network) 유저 데이터를 시뮬레이션**하여, EDA(탐색적 데이터 분석) 실습용으로 사용할 수 있는 **초대규모 synthetic dataset**을 생성합니다.
+**20,000,000명의 PSN(PlayStation Network) 유저 데이터를 시뮬레이션**하여, EDA(탐색적 데이터 분석) 실습용으로 사용할 수 있는 **초대규모 synthetic dataset**을 생성합니다.
 
 ---
 
